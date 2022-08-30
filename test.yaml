@@ -1,0 +1,4 @@
+- path: '/me'
+  url: 'https://hpurmann.com'
+- path: '/google'
+  url: 'https://google.com'
